@@ -1,23 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Ayush%20Mishra&fontSize=90&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Tactical%20Systems%20%7C%20Disaster%20Response%20%7C%20Mobile%20Dev&descAlignY=55&descAlign=62" alt="Ayush Mishra Header" width="100%" />
-</div>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Mission-Critical+Software;Developing+HawkLink+Tactical+Systems;Situational+Awareness+Tech;Flutter+%26+Dart+Specialist)](https://git.io/typing-svg)
-
-  <p align="center">
-    <a href="https://github.com/ayushmishra-18">
-      <img src="https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=activitypub&logoColor=white" alt="Status Operational" />
-    </a>
-    <a href="https://github.com/ayushmishra-18?tab=repositories">
-      <img src="https://img.shields.io/badge/Focus-Defense_Tech-0ea5e9?style=for-the-badge&logo=radar&logoColor=white" alt="Focus Defense Tech" />
-    </a>
-  </p>
-</div>
-
----
-<div align="center">
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=AYUSH%20MISHRA&fontSize=80&fontColor=00f2ff&animation=fadeIn&fontAlignY=38&desc=~%20CREATING%20USEFUL%20THINGS%20WITH%20CODE%20~&descAlignY=55&descSize=20" alt="Cyberpunk Header" />
 
@@ -37,17 +18,8 @@
 
 <br />
 
-## `>_ 01 // USER_PROFILE`
+---
 
-```json
-{
-  "codename": "ayushmishra-18",
-  "role": ["Android Developer", "Desktop Architect", "Security Engineer"],
-  "current_focus": "System Design & Secure C2 Platforms",
-  "location": "Pune, India",
-  "hobbies": ["Tech Reels", "Music", "Game Dev", "Solving Real World Problems"]
-}
-```
 ### 📡 <span style="color: #38bdf8;">Mission Briefing</span>
 > *"Technology that works when everything else fails."*
 
