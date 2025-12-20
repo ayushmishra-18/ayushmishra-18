@@ -17,7 +17,37 @@
 </div>
 
 ---
+<div align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=AYUSH%20MISHRA&fontSize=80&fontColor=00f2ff&animation=fadeIn&fontAlignY=38&desc=~%20CREATING%20USEFUL%20THINGS%20WITH%20CODE%20~&descAlignY=55&descSize=20" alt="Cyberpunk Header" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&color=39FF14&center=true&vCenter=true&width=500&lines=System+Online...;Initializing+Android+Protocol...;Accessing+Secure+Environments...;Deploying+Cross-Platform+Solutions..." alt="Typing SVG" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00f2ff?style=for-the-badge&logo=probot" />
+  <img src="https://img.shields.io/badge/SECURITY_LEVEL-MAXIMUM-ff0055?style=for-the-badge&logo=guardsquare" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-f7df1e?style=for-the-badge&logo=google-maps&logoColor=black" />
+</div>
+
+<br />
+
+## `>_ 01 // USER_PROFILE`
+
+```json
+{
+  "codename": "ayushmishra-18",
+  "role": ["Android Developer", "Desktop Architect", "Security Engineer"],
+  "current_focus": "System Design & Secure C2 Platforms",
+  "location": "Pune, India",
+  "hobbies": ["Tech Reels", "Music", "Game Dev", "Solving Real World Problems"]
+}
+```
 ### 📡 <span style="color: #38bdf8;">Mission Briefing</span>
 > *"Technology that works when everything else fails."*
 
