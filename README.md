@@ -1,32 +1,87 @@
-<h1 align="center">Hey 👋, I'm Ayush Mishra</h1>
-<h3 align="center">Creating useful things with code</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Ayush%20Mishra&fontSize=90&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Tactical%20Systems%20%7C%20Disaster%20Response%20%7C%20Mobile%20Dev&descAlignY=55&descAlign=62" alt="Ayush Mishra Header" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmishra-18&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmishra-18" /> </p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Mission-Critical+Software;Developing+HawkLink+Tactical+Systems;Situational+Awareness+Tech;Flutter+%26+Dart+Specialist)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Hawklink-Tactical](https://github.com/ayushmishra-18/HawkLink-Tactical)
-
-- 🌱 I’m currently learning **App development , Web development**
-
-- 📫 How to reach me **2006ayushmishra@gmail.com**
-
-- ⚡ Fun fact **Interest Matters**
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-18-mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2006ayushmishra@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushmishra-18&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayushmishra-18&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmishra-18&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushmishra-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <p align="center">
+    <a href="https://github.com/ayushmishra-18">
+      <img src="https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=activitypub&logoColor=white" alt="Status Operational" />
+    </a>
+    <a href="https://github.com/ayushmishra-18?tab=repositories">
+      <img src="https://img.shields.io/badge/Focus-Defense_Tech-0ea5e9?style=for-the-badge&logo=radar&logoColor=white" alt="Focus Defense Tech" />
+    </a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushmishra-18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 📡 <span style="color: #38bdf8;">Mission Briefing</span>
+> *"Technology that works when everything else fails."*
+
+I am a developer focused on building **resilient, high-stakes applications**. My work bridges the gap between **tactical situational awareness**, **disaster management**, and **mobile computing**. I specialize in creating systems that provide real-time intelligence in off-grid and critical environments.
+
+* 🔭 I’m currently working on **[HawkLink-Tactical](https://github.com/ayushmishra-18/HawkLink-Tactical)**.
+* 🛰️ I’m interested in **3D Terrain Mapping, TCP Uplinks, and Secure Comms**.
+* 🛡️ Looking to collaborate on **Defense Technology** and **Humanitarian Aid Systems**.
+
+---
+
+### 🛠️ <span style="color: #38bdf8;">Technical Arsenal</span>
+
+<div align="center">
+
+| **Core Stack** | **Systems & Tools** | **Domains** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=flutter,dart" width="100" /> | <img src="https://skillicons.dev/icons?i=git,linux,firebase" width="150" /> | <img src="https://skillicons.dev/icons?i=python,cpp" width="100" /> |
+| **Mobile Dev** | **Backend & Infra** | **Logic & Analysis** |
+
+</div>
+
+---
+
+### 🚀 <span style="color: #38bdf8;">Featured Deployment: HawkLink Tactical</span>
+
+<div align="center">
+<a href="https://github.com/ayushmishra-18/HawkLink-Tactical">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushmishra-18&repo=HawkLink-Tactical&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" />
+</a>
+<p><i>A dual-app tactical system featuring 3D satellite terrain mapping, secure TCP soldier uplink, and real-time GPS tracking for off-grid coordination.</i></p>
+</div>
+
+---
+
+### 📊 <span style="color: #38bdf8;">Operational Metrics</span>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmishra-18&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmishra-18&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmishra-18&theme=tokyonight&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <p><b>Initiate Communication Protocol:</b></p>
+  
+  <a href="https://github.com/ayushmishra-18">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <br />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=ayushmishra-18&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
