@@ -4,137 +4,143 @@
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&color=39FF14&center=true&vCenter=true&width=500&lines=System+Online...;Initializing+Android+Protocol...;Accessing+Secure+Environments...;Deploying+Cross-Platform+Solutions..." alt="Typing SVG" />
+
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=B026FF&center=true&vCenter=true&width=650&lines=Competitive+Programmer+%40+Codeforces+%26+LeetCode;Flutter+%2B+Security+%3D+HawkLink+Tactical;Exploring+Move+Lang+%26+Web3+Smart+Contracts;Always+up+for+a+good+DSA+problem" alt="Typing SVG" />
   </a>
 
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00f2ff?style=for-the-badge&logo=probot" />
-  <img src="https://img.shields.io/badge/SECURITY_LEVEL-MAXIMUM-ff0055?style=for-the-badge&logo=guardsquare" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-f7df1e?style=for-the-badge&logo=google-maps&logoColor=black" />
-</div>
+![Collab](https://img.shields.io/badge/Open%20to-Collaborate-E100FF?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Competitive%20Programming-00DBDE?style=for-the-badge&logo=codeforces&logoColor=white)
+![Location](https://img.shields.io/badge/Location-India-7F00FF?style=for-the-badge&logo=googlescholar&logoColor=white)
+
 
 <br />
 
 ---
 
-### 📡 <span style="color: #38bdf8;">Mission Briefing</span>
-> *"Technology that works when everything else fails."*
+### 👨‍💻 About Me
 
-I am a developer focused on building **resilient, high-stakes applications**. My work bridges the gap between **tactical situational awareness**, **disaster management**, and **mobile computing**. I specialize in creating systems that provide real-time intelligence in off-grid and critical environments.
+I'm Ayush — a Computer Science student who enjoys two very different flavors of problem-solving: racing the clock on **Codeforces** and **LeetCode**, and building real systems that have to hold up under pressure, like an offline tactical communication app secured with military-grade cryptography. I like work that mixes sharp algorithmic thinking with practical engineering — whether that's optimizing a DP transition or designing a zero-trust network from scratch.
 
-* 🔭 I’m currently working on **[HawkLink-Tactical](https://github.com/ayushmishra-18/HawkLink-Tactical)**.
-* 🛰️ I’m interested in **3D Terrain Mapping, TCP Uplinks, and Secure Comms**.
-* 🛡️ Looking to collaborate on **Defense Technology** and **Humanitarian Aid Systems**.
+- 🧮 Grinding **Data Structures & Algorithms** daily across Codeforces, LeetCode & CodeChef
+- 🛡️ Building **HawkLink Tactical** — an offline-first, encrypted command & control system
+- ⛓️ Exploring **Web3** through Aptos Move smart contracts
+- 🌱 Always learning, always shipping
+
 
 ---
+### 🛠️ Tech Stack
 
-### 🛠️ <span style="color: #38bdf8;">Technical Arsenal</span>
+<p align="center">
+<b>Languages</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
+</p>
 
-<!-- <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div> -->
+<p align="center">
+<b>Mobile & Web</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+</p>
 
-###
+<p align="center">
+<b>Data & AI</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+</p>
 
-<br clear="both">
+<p align="center">
+<b>Tools & Design</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45"/>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
 ---
 
 
 
-<!-- <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div> -->
+### 📌 Pinned Projects
 
-###
+#### 🦅 [HawkLink Tactical](https://github.com/ayushmishra-18/HawkLink-Tactical)
 
+![Flutter](https://img.shields.io/badge/Flutter-3.22-02569B?style=flat-square&logo=flutter&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![Security](https://img.shields.io/badge/Security%20Rating-A%2B-success?style=flat-square)
 
-### 🚀 <span style="color: #38bdf8;">Featured Deployment: HawkLink Tactical</span>
+A military-grade, **offline-first Command & Control platform** for tactical situational awareness in GPS-denied, jammed, or off-grid zones. Built as two tightly integrated Flutter apps — a Commander Console and a Soldier Uplink — communicating over a zero-trust network where every device authenticates before it's trusted.
 
-<div align="center">
-<a href="https://github.com/ayushmishra-18/HawkLink-Tactical">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushmishra-18&repo=HawkLink-Tactical&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" />
-</a>
-<p><i>A dual-app tactical system featuring 3D satellite terrain mapping, secure TCP soldier uplink, and real-time GPS tracking for off-grid coordination.</i></p>
-</div>
+- 🔐 **Mutual TLS** (X.509, RSA-4096 root CA) + **AES-256-GCM** encryption for every packet
+- 🔑 **ECDH P-256** key exchange for perfect forward secrecy
+- 🛰️ Real-time **3D satellite terrain mapping** via ArcGIS high-res imagery
+- 📡 **AR compass HUD** and acoustic gunshot detection (>110dB spike alerts) on the field unit
+- 🩺 Live bio-telemetry, mission waypoints & a cryptographically signed remote wipe from the console
 
----
+#### 🧮 [Competitive Programming Vault](https://github.com/ayushmishra-18/Codeforces)
 
-### 📊 <span style="color: #38bdf8;">Operational Metrics</span>
+![Language](https://img.shields.io/badge/C%2B%2B-Language-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems%20Solved-400%2B-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
+![Max Rating](https://img.shields.io/badge/Pupil--1230-success?style=flat-square)
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ayushmishra-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmishra-18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=ayushmishra-18&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmishra-18&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushmishra-18/ayushmishra-18/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushmishra-18/ayushmishra-18/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayushmishra-18/ayushmishra-18/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/ayushmishra-18/ayushmishra-18/snake.svg" alt="Snake Animation" />
-
-###
+400+ Codeforces submissions, **auto-organized by topic and difficulty** through a custom CFPusher pipeline straight from my Codeforces account — spanning DP, greedy, strings, implementation, math, sortings, and constructive algorithms. 
+**Consistent, Daily practice**
 
 ---
 
-<div align="center">
-  <p><b>Initiate Communication Protocol:</b></p>
-  
-  <a href="https://github.com/ayushmishra-18">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:2006ayushmishra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ayush-18-mishra">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <br />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=ayushmishra-18&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+
+
+### ⛓️ Other Notable Work
+
+**[Civic Engagement Credits](https://github.com/ayushmishra-18/aptos-project)** — a smart contract on **Aptos (Move)** that lets institutions verify and award on-chain "civic credits" to students for community participation, exploring how Web3 can incentivize real-world social impact.
+
+![Move](https://img.shields.io/badge/Move-Aptos-1A2A6C?style=flat-square)
+
+---
+
+### 🏆 Competitive Programming
+
+<p align="center">
+<a href="https://codeforces.com/profile/ayush_mishra.exe"><img src="https://img.shields.io/badge/Codeforces-ayush__mishra.exe-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Not_Out/"><img src="https://img.shields.io/badge/LeetCode-Not__Out-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/notout"><img src="https://img.shields.io/badge/CodeChef-notout-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=ayushmishra-18&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmishra-18&theme=tokyo-night&hide_border=true&area=true&radius=10" width="48%"/>
+</p>
+
+
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:2006ayushmishra@gmail.com"><img src="https://img.shields.io/badge/Email-2006ayushmishra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ayush-18-mishra"><img src="https://img.shields.io/badge/LinkedIn-ayush--18--mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ayushmishra-18"><img src="https://img.shields.io/badge/GitHub-ayushmishra--18-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ayushmishra-18&color=7F00FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:7F00FF&height=100&section=footer" width="100%"/>
 </div>
