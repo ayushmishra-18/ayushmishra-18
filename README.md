@@ -1,146 +1,162 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=AYUSH%20MISHRA&fontSize=80&fontColor=00f2ff&animation=fadeIn&fontAlignY=38&desc=~%20CREATING%20USEFUL%20THINGS%20WITH%20CODE%20~&descAlignY=55&descSize=20" alt="Cyberpunk Header" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&color=39FF14&center=true&vCenter=true&width=500&lines=System+Online...;Initializing+Android+Protocol...;Accessing+Secure+Environments...;Deploying+Cross-Platform+Solutions..." alt="Typing SVG" />
+# _**Ayush Mishra**_
 
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=B026FF&center=true&vCenter=true&width=650&lines=Competitive+Programmer+%40+Codeforces+%26+LeetCode;Flutter+%2B+Security+%3D+HawkLink+Tactical;Exploring+Move+Lang+%26+Web3+Smart+Contracts;Always+up+for+a+good+DSA+problem" alt="Typing SVG" />
-  </a>
+```bash
+> system online ................................. [ OK ]
+> spinning up FastAPI workers (uvicorn) ......... [ OK ]
+> establishing PostgreSQL connection pool ....... [ OK ]
+> optimizing REST API latency (p99 < 15ms) ...... [ OK ]
+> securing a Pupil rank ......................... [ FAIL ]
+> deploying GitHub camouflage (1,424+ commits) .. [ OK ]
+[WARN] camouflage hides red CF history .......... [ NOTED ]
+[INFO] excavating max rating 1230 ............... [ RELIC ]
+[INFO] charity recalc applied (+4) .............. [ PITY ]
+> rank: NEWBIE 1164 (was once a person) ......... [ COPE ]
+> bio: non of your interest ..................... [ DENIED ]
+```
+
+**Backend Engineer • Competitive Programmer**
+
+[![Portfolio](https://img.shields.io/badge/Tactical_Shell-ayushmishra.poke.site-00ff66?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ayushmishra.poke.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--18--mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-18-mishra/)
+[![Email](https://img.shields.io/badge/Comms-2006ayushmishra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2006ayushmishra@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ayushmishra--18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushmishra-18)
 
 </div>
 
-<br />
+---
 
-![Collab](https://img.shields.io/badge/Open%20to-Collaborate-E100FF?style=for-the-badge&logo=github&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Competitive%20Programming-00DBDE?style=for-the-badge&logo=codeforces&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-7F00FF?style=for-the-badge&logo=googlescholar&logoColor=white)
+### `$ ./whoami`
 
+> **"Bio is non of your interest"**  
+> *— the entire GitHub bio of `ayush_mishra.exe`, left exactly as written.*
 
-<br />
+I am **Ayush Mishra** — a **Backend Engineer** designing asynchronous REST APIs, optimizing PostgreSQL query execution plans, and an emotionally compromised **Competitive Programmer**.
+
+* **Backend Reality:** I build high-throughput backend services using **Python** and **FastAPI**, write relational schemas and complex queries in **PostgreSQL**, build robust REST API contracts, and engineer offline-first distributed synchronization pipelines.
+* **Contest Reality:** Newbie on Codeforces, rating **1164** (which includes a $+4$ system charity injection from a cheater cleanup). Pupil only by heritage (**peak rating 1230**), an ancient relic from before the April 2026 canon event ($-97$ drop on test 6).
+* **The Paradox:** I can design normalized PostgreSQL schemas, manage connection pooling, and handle concurrent async requests without dropping a packet, yet I will spend four hours shaving constant factors off a Div. 2 greedy problem only to find out `int` overflowed.
 
 ---
 
-### 👨‍💻 About Me
+### 📡 Telemetry Matrix: The Irony of Scale
 
-I'm Ayush — a Computer Science student who enjoys two very different flavors of problem-solving: racing the clock on **Codeforces** and **LeetCode**, and building real systems that have to hold up under pressure, like an offline tactical communication app secured with military-grade cryptography. I like work that mixes sharp algorithmic thinking with practical engineering — whether that's optimizing a DP transition or designing a zero-trust network from scratch.
+```
+// diff backend_production.py leetcode.py
+```
 
-- 🧮 Grinding **Data Structures & Algorithms** daily across Codeforces, LeetCode & CodeChef
-- 🛡️ Building **HawkLink Tactical** — an offline-first, encrypted command & control system
-- ⛓️ Exploring **Web3** through Aptos Move smart contracts
-- 🌱 Always learning, always shipping
+| Metric | Production Backend Architecture | Contest Reality |
+| :--- | :--- | :--- |
+| **Core Stack** | Python, FastAPI, PostgreSQL, Async REST APIs | Div. 2 Greedy Traps & Brute Force |
+| **Data & Query Engine** | Relational Schemas, Indexing, Connection Pools | Codeforces cheater cleanup pity ($+4$) |
+| **Throughput & State** | Non-blocking Async I/O, P99 Latency Tuning | `MLE`: Declared `int dp[100005][100005]` |
+| **LeetCode Hard** | **0** (Tunes DB locks & REST endpoints; avoids DP) | 15 total solved (11 Easy, 4 Medium) |
+| **Dignity Complexity** | O(1) in theory | O(n^2) at scale |
 
-
----
-### 🛠️ Tech Stack
-
-<p align="center">
-<b>Languages</b><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
-</p>
-
-<p align="center">
-<b>Mobile & Web</b><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-</p>
-
-<p align="center">
-<b>Data & AI</b><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</p>
-
-<p align="center">
-<b>Tools & Design</b><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45"/>
-</p>
-
----
-
-
-
-### 📌 Pinned Projects
-
-#### 🦅 [HawkLink Tactical](https://github.com/ayushmishra-18/HawkLink-Tactical)
-
-![Flutter](https://img.shields.io/badge/Flutter-3.22-02569B?style=flat-square&logo=flutter&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
-![Security](https://img.shields.io/badge/Security%20Rating-A%2B-success?style=flat-square)
-
-A military-grade, **offline-first Command & Control platform** for tactical situational awareness in GPS-denied, jammed, or off-grid zones. Built as two tightly integrated Flutter apps — a Commander Console and a Soldier Uplink — communicating over a zero-trust network where every device authenticates before it's trusted.
-
-- 🔐 **Mutual TLS** (X.509, RSA-4096 root CA) + **AES-256-GCM** encryption for every packet
-- 🔑 **ECDH P-256** key exchange for perfect forward secrecy
-- 🛰️ Real-time **3D satellite terrain mapping** via ArcGIS high-res imagery
-- 📡 **AR compass HUD** and acoustic gunshot detection (>110dB spike alerts) on the field unit
-- 🩺 Live bio-telemetry, mission waypoints & a cryptographically signed remote wipe from the console
-
-#### 🧮 [Competitive Programming Vault](https://github.com/ayushmishra-18/Codeforces)
-
-![Language](https://img.shields.io/badge/C%2B%2B-Language-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-400%2B-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
-![Max Rating](https://img.shields.io/badge/Pupil--1230-success?style=flat-square)
-
-400+ Codeforces submissions, **auto-organized by topic and difficulty** through a custom CFPusher pipeline straight from my Codeforces account — spanning DP, greedy, strings, implementation, math, sortings, and constructive algorithms. 
-**Consistent, Daily practice**
-
----
-
-
-
-
-
-### ⛓️ Other Notable Work
-
-**[Civic Engagement Credits](https://github.com/ayushmishra-18/aptos-project)** — a smart contract on **Aptos (Move)** that lets institutions verify and award on-chain "civic credits" to students for community participation, exploring how Web3 can incentivize real-world social impact.
-
-![Move](https://img.shields.io/badge/Move-Aptos-1A2A6C?style=flat-square)
-
----
-
-### 🏆 Competitive Programming
-
-<p align="center">
-<a href="https://codeforces.com/profile/ayush_mishra.exe"><img src="https://img.shields.io/badge/Codeforces-ayush__mishra.exe-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Not_Out/"><img src="https://img.shields.io/badge/LeetCode-Not__Out-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/notout"><img src="https://img.shields.io/badge/CodeChef-notout-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=ayushmishra-18&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmishra-18&theme=tokyo-night&hide_border=true&area=true&radius=10" width="48%"/>
-</p>
-
-
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-<a href="mailto:2006ayushmishra@gmail.com"><img src="https://img.shields.io/badge/Email-2006ayushmishra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ayush-18-mishra"><img src="https://img.shields.io/badge/LinkedIn-ayush--18--mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/ayushmishra-18"><img src="https://img.shields.io/badge/GitHub-ayushmishra--18-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayushmishra-18&color=7F00FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:7F00FF&height=100&section=footer" width="100%"/>
+
+| Platform | Handle | Rating / Solved | Telemetry Status |
+| :--- | :--- | :--- | :--- |
+| **Codeforces** | [`ayush_mishra.exe`](https://codeforces.com/profile/ayush_mishra.exe) | **1164** (Max: 1230 Pupil) | `ACTIVE_SIEGE` (386 matches) |
+| **CodeChef** | [`notout`](https://www.codechef.com/users/notout) | **1422** (2★) | `SUBMITTED` |
+| **LeetCode** | [`Not_Out`](https://leetcode.com/u/Not_Out/) | **1490** (15 solved) | `SIMULATION_ONLY` |
+| **Codolio** | [`NotOut`](https://codolio.com/profile/NotOut) | **483+** Solved Across Platforms | `SECURE` |
+
 </div>
+
+---
+
+### 🛠️ Shipped Deployments (`git remote -v`)
+
+#### 🌾 [Agro-Connect (V1)](https://github.com/ayushmishra-18/Agro-Connect)
+> **Agritech Backend & Offline Data Sync Engine**  
+> `PostgreSQL` • `FastAPI / Python` • `REST APIs` • `Next.js 14` • `Room DB`
+* Engineered backend REST APIs and an offline-first data sync engine designed to survive volatile 2G rural connectivity.
+* Designed relational PostgreSQL schemas with row-level policies, background worker task queues, and data ingestion pipelines for 7-day ML price forecast models.
+* *Engineered so farmers survive volatile markets; have yet to survive a single Div. 2 round without rating erosion.*
+
+#### 📡 [HawkLink Engine](https://github.com/ayushmishra-18/Hawklink-Tactical)
+> **Offline Command & Control Telemetry Backend**  
+> `Python` • `REST APIs` • `Local DB Engines` • `Data Serialization` • `Flutter`
+* Architected an offline-first, peer-to-peer data synchronization engine and low-latency API contracts for GPS-denied environments.
+* Handled local state persistence, high-frequency acoustic sensor data streams, and coordinate synchronization.
+* *Shipped mission-critical backend sync; still gets bullied by a Two Sum follow-up.*
+
+#### ⛓️ [Civic Engagement Credits](https://github.com/ayushmishra-18/aptos-project)
+> **Decentralized State Machine & Ledger on Aptos**  
+> `Aptos` • `Move` • `Smart Contracts` • `State Management`
+* Designed an immutable ledger for civic reputation validation, state transition verification, and tamper-proof records.
+* *Engineered on-chain trust because that number cannot be lowered by anyone, unlike my Codeforces rating.*
+
+#### 📦 [Competitive Programming Vault](https://github.com/ayushmishra-18/Codeforces)
+> **400+ Auto-Committed Solutions Pipeline**  
+> `C++` • `Python Automation` • `Webhooks & CI/CD`
+* Automated ingest pipeline that consumes submission webhooks and commits solutions organized by rating and algorithm topic the second an `Accepted` verdict is confirmed.
+* *Automated every single step of competitive programming except being good at it.*
+
+---
+
+### 💻 Loadout & Tech Stack (`$ modprobe --list`)
+
+```bash
+# Backend Architecture & APIs
+FRAMEWORKS & ENGINES : [ FastAPI, Uvicorn, REST APIs, Asyncio, Pydantic ]
+DATABASES & ORM      : [ PostgreSQL, SQLAlchemy, Supabase, MySQL, Room DB ]
+ARCHITECTURE         : [ RESTful Design, Offline-First Sync, Connection Pooling, Webhooks ]
+
+# Core Languages
+LANGUAGES            : [ Python, C++, C, SQL, Kotlin, Dart, Move ]
+
+# Client Platforms & Frontend
+CLIENT FRAMEWORKS    : [ Flutter, Android (Jetpack Compose), Next.js 14, HTML5/CSS3 ]
+
+# Environments & Tooling
+DEVLOADOUT           : [ Linux, Bash, Git, GitHub Actions, Docker, Vim (obviously) ]
+```
+
+---
+
+### 🧠 Life, Optimized (`// big_o_of_existence.h`)
+
+```cpp
+O(1)     : Replying to texts       // Dispatches a single 👍 emoji. Constant time.
+O(log n) : Choosing what to eat    // Binary search the fridge. Half the options are expired.
+O(n)     : Doing the dishes        // Batched weekly to amortize cost.
+O(n^2)   : Maintaining friendships // Every pair needs a chat. Pruned aggressively.
+O(2^n)   : Explaining what I do    // Relatives at dinner. Exponential horror.
+O(n!)    : Touching grass          // NP-hard. No known polynomial solution. Still researching.
+```
+
+---
+
+### 🩸 Trauma Archive (`// stack_trace.log`)
+
+* **`TLE` (Time Limit Exceeded):** Seeing the execution timer count past $2000\text{ ms}$ causes physical chest pain. The algorithm was correct; it was just slow.
+* **`WA` (Wrong Answer):** Passed sample tests, passed pretests. Then system tests arrived at 3 AM with test 47 and a quiet sense of betrayal.
+* **`MLE` (Memory Limit Exceeded):** $256\text{ MB}$ felt like infinity until I declared `int dp[100005][100005]`.
+* **🏆 Scars Turned Into Lore:**
+  * `AC` on **OutOfMemoryError** (*Round 1074*) — Defeated my greatest memory fear by name.
+  * `AC` on **Annoying the Ghost** (*Round 1104*) — Verdict: Accepted. Somewhere out there, a ghost is annoyed.
+
+---
+
+### 📡 Ping ayush_mishra.exe
+
+```bash
+$ ping -c 1 ayush_mishra.exe
+```
+
+> ⚠️ *I respond fastest during the 15 minutes between a contest ending and the rating update breaking my spirit. Outside that window, expect TLE.*
+
+* 🌐 **Portfolio:** [ayushmishra.poke.site](https://ayushmishra.poke.site/)
+* 💼 **LinkedIn:** [ayush-18-mishra](https://www.linkedin.com/in/ayush-18-mishra/)
+* 💻 **Codeforces:** [@ayush_mishra.exe](https://codeforces.com/profile/ayush_mishra.exe)
+* 🐙 **GitHub:** [@ayushmishra-18](https://github.com/ayushmishra-18)
+* 📮 **Email:** [2006ayushmishra@gmail.com](mailto:2006ayushmishra@gmail.com)
+
+```
+[ git commit -m "the only place my contributions stay green" ]
+```
