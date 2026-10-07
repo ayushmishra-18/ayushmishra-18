@@ -62,8 +62,8 @@ I am **Ayush Mishra** — a **Backend Engineer** designing asynchronous REST API
 | :--- | :--- | :--- | :--- |
 | **Codeforces** | [`ayush_mishra.exe`](https://codeforces.com/profile/ayush_mishra.exe) | **1164** (Max: 1230 Pupil) | `ACTIVE_SIEGE` (386 matches) |
 | **CodeChef** | [`notout`](https://www.codechef.com/users/notout) | **1422** (2★) | `SUBMITTED` |
-| **LeetCode** | [`Not_Out`](https://leetcode.com/u/Not_Out/) | **1490** (15 solved) | `SIMULATION_ONLY` |
-| **Codolio** | [`NotOut`](https://codolio.com/profile/NotOut) | **483+** Solved Across Platforms | `SECURE` |
+| **LeetCode** | [`Not_Out`](https://leetcode.com/u/Not_Out/) | **1490** | `SIMULATION_ONLY` |
+| **Codolio** | [`NotOut`](https://codolio.com/profile/NotOut) | **523+** Solved Across Platforms | `SECURE` |
 
 </div>
 
@@ -153,6 +153,7 @@ $ ping -c 1 ayush_mishra.exe
 
 * 🌐 **Portfolio:** [ayushmishra.poke.site](https://ayushmishra.poke.site/)
 * 💼 **LinkedIn:** [ayush-18-mishra](https://www.linkedin.com/in/ayush-18-mishra/)
+* 𝕏 **X (Twitter):** @Citomba01
 * 💻 **Codeforces:** [@ayush_mishra.exe](https://codeforces.com/profile/ayush_mishra.exe)
 * 🐙 **GitHub:** [@ayushmishra-18](https://github.com/ayushmishra-18)
 * 📮 **Email:** [2006ayushmishra@gmail.com](mailto:2006ayushmishra@gmail.com)
