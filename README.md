@@ -29,8 +29,6 @@
 
 ### `$ ./whoami`
 
-> **"Bio is non of your interest"**  
-> *— the entire GitHub bio of `ayush_mishra.exe`, left exactly as written.*
 
 I am **Ayush Mishra** — a **Backend Engineer** designing asynchronous REST APIs, optimizing PostgreSQL query execution plans, and an emotionally compromised **Competitive Programmer**.
 
